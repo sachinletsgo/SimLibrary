@@ -1,6 +1,7 @@
 apply plugin: 'com.android.application'
 
 android {
+    //Test1234
     compileSdkVersion 26
     buildToolsVersion "26.0.1"
     defaultConfig {
@@ -28,5 +29,5 @@ dependencies {
     compile 'com.android.support.constraint:constraint-layout:1.0.2'
     testCompile 'junit:junit:4.12'
     compile project(path: ':simdetection')
-//    compile 'com.github.sachinletsgo:SimLibrary:0.1'
+
 }

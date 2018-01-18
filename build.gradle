@@ -16,10 +16,8 @@ allprojects {
     repositories {
         jcenter()
 
-        //bitbucket acount for jitpack setting
         maven {
             url "https://jitpack.io"
-            credentials { username authToken }
         }
     }
 }

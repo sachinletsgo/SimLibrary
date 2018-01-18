@@ -8,5 +8,5 @@
 /captures
 .externalNativeBuild
 /simdetection/
-simdetection/
+simdetection/*
 

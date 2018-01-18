@@ -1,1 +1,1 @@
-include ':app', ':simdetection'
+include ':app'//, ':simdetection'
